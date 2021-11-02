@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @bhuwanchhetri
 - 👀 I’m interested in c++ and python and other security of IT
-- 🌱 I’m currently learning c++ here
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning c++ here...
 
 <!---
 bhuwanchhetri/bhuwanchhetri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
